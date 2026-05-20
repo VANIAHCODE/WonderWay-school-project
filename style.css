@@ -46,7 +46,8 @@ body {
 
 .nav-links a:hover {
     color: #333;
-    background-color:#82C8E5
+    background-color:orange;
+    padding:5px;
 }
 
 
